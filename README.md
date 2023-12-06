@@ -16,8 +16,9 @@
 | <ins>***Call***</ins>: 02382 516 797 / <ins>***Email***</ins>: reception@botleigh-Grange.com |    
 | Walk-ins are welcomed for events that have the sign (*) next to them but booking is advised to avoid dissapointent|
 
+# See events details bellow:
 
-Chrismas shopping day:
+<ins>Curry night</ins>
 ![image](https://github.com/kim2015hamhe/Upcoming-events/assets/151997230/e67258bb-1406-43eb-9487-6783160beaa8)
 
 
