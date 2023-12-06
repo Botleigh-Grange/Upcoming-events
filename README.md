@@ -13,7 +13,7 @@
 
 | ***How to book?*** |
 |---------------|
-| <ins>***Call***</ins>: 02382 516 797 / <ins>***Email***</ins>: reception@botleigh-Grange.com |    
+| <ins>***Call***</ins>: 02382516797 / <ins>***Email***</ins>: reception@botleigh-Grange.com |    
 | ** ***Walk-ins*** are welcomed for events that have the sign <ins>(*)</ins> next to them but booking is advised to avoid dissapointent|
 
 # See events details bellow:
