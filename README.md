@@ -19,6 +19,11 @@
 # See events details bellow:
 
 <ins>Curry night</ins>
+
+![image](https://github.com/Botleigh-Grange/Upcoming-events/assets/151997230/6978994e-cf28-4bd2-b634-7650f2746685)
+
+<ins>*Chrismas shopping day*</ins>
+
 ![image](https://github.com/kim2015hamhe/Upcoming-events/assets/151997230/e67258bb-1406-43eb-9487-6783160beaa8)
 
 
