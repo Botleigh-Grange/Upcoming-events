@@ -5,11 +5,11 @@
 
 | ***Event*** | ***Date*** | ***Time*** | ***Price per person*** |
 |----------|----------|----------|----------|
-| Curry night | Every thursday | 6:30 pm - 9:30 pm | £9.95 |
-| Chrismas shopping day | 09-Dec | 11 AM - 3 PM  | Free |
-| ABBA night | 14-Dec | 6:30 pm - 11:30 pm | £50.00 |
+| ***Curry night*** | Every thursday | 6:30 pm - 9:30 pm | £9.95 |
+| ***Chrismas shopping day*** | 09-Dec | 11 AM - 3 PM  | Free |
+| ***ABBA night*** | 14-Dec | 6:30 pm - 11:30 pm | £50.00 |
 |  |  |  |  |
-|  |  | Row 4, Cell 3 | Row 4, Cell 4 |
+|  |  |  |  |
 
 
 Chrismas shopping day:
